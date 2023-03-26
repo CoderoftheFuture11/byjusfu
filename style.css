@@ -1,8 +1,8 @@
 body{
-    background-color:rgb(118, 204, 101);
+    background-color:tomato;
 }
 h1{
-    color: blue;
+    color: green;
     background-color: cornsilk;
 }
 
@@ -20,7 +20,7 @@ canvas{
 
 @keyframes example{
     from{box-shadow:5px 5px 40px royalblue;}
-    to{box-shadow: 50px 50px 250px purple;}
+    to{box-shadow: 50px 50px 250px orange;}
 }
 
 p{
